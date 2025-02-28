@@ -19,7 +19,7 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 
 - 👯 I’m always looking for new projects, startup ideas and opportunities
 
--  📖 My interests lie in the Social Life of Algorithms and how they mediate communication processes in areas as diverse as social media, journalism, healthcare, philosophy, and Geo-politics.
+-  📖 My interests lie in the Social Life of Algorithms and how they mediate communication processes in areas as diverse as social media, journalism, healthcare, philosophy, and geopolitics.
 
 - 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/-vkorepuuu@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:vkorepuuu@gmail.com)
 
@@ -74,7 +74,7 @@ You can find my resume [here](https://github.com/user-attachments/files/19031883
 
 
 <!--
-**rishabmahesh/rishabmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   
 
 Here are some ideas to get you started:
 
