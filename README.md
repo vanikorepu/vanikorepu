@@ -69,7 +69,7 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 
 ### 📎 Resume and more:
 
-You can find my resume [here](https://github.com/rishabmahesh/rishabmahesh/files/14230875/Rishab_maheshwari_resume.pdf)
+You can find my resume [here](https://github.com/user-attachments/files/19031883/Vani.Resume.Feb.2025.pdf)
 
 
 
