@@ -15,15 +15,14 @@
 
 I am a graduate student at UMass Amherst studying CS. I love front-end and mobile app development
 
-- 🔭: I am currently working on an independent study to detect early signs of Alzheimer's disease. I am also working on a chrome extension to recommend research papers
+- 🔭: I am currently working on an independent research project applying computational methods to analyze epistemological tendencies, specifically rationalism and empiricism, in modern texts. This involves developing language-based models to detect these philosophical frameworks in social media posts, articles, and contemporary discourse.
 
-- 👀: Checkout my startup: [AudioShelf](https://getaudioshelf.com/). The app is live on [Play Store](https://play.google.com/store/apps/details?id=com.audioshelfapp) and [App Store](https://apps.apple.com/us/app/audioshelf/id6443459241)
+- 👯 I’m always looking for new projects, startup ideas and opportunities
 
-- 👯 I’m always looking for new startup ideas and opportunities
+-  📖 My interests lie in the Social Life of Algorithms and how they mediate communication processes in areas as diverse as social media, journalism, healthcare, philosophy, and Geo-politics.
 
-- 💬 Ask me about what I did in AudioShelf
+- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/-vkorepuuu@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:vkorepuuu@gmail.com)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rishabmahesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabmahesh/)
 
 ---
 
@@ -72,9 +71,6 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 
 You can find my resume [here](https://github.com/rishabmahesh/rishabmahesh/files/14230875/Rishab_maheshwari_resume.pdf)
 
-You can also checkout the GitHub gist code for one of my screens in AudioShelf [here](https://gist.github.com/rishabmahesh-umass/6f39b86e355558955617278c601ead9b)
-
-I recently transferred all my code from my old account to this one. You can find more info about my contributins [here](https://github.com/rishabmahesh-umass)
 
 
 
