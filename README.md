@@ -15,7 +15,7 @@
 
 I am a graduate student at UMass Amherst studying CS. I love front-end and mobile app development
 
-- 🔭: I am currently working on an independent research project applying computational methods to analyze epistemological tendencies, specifically rationalism and empiricism, in modern texts. This involves developing language-based models to detect these philosophical frameworks in social media posts, articles, and contemporary discourse.
+- 🔭: 🔭 I am currently working as an Associate Software Developer at UMass Amherst Libraries, where I design accessible, mobile-responsive interfaces, streamline backend systems, and contribute to improving digital access and metadata indexing for over 100K+ archived records.
 
 - 👯 I’m always looking for new projects, startup ideas and opportunities
 
