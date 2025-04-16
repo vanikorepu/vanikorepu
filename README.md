@@ -15,7 +15,7 @@
 
 I am a graduate student at UMass Amherst studying CS. I love front-end and mobile app development
 
-- 🔭: 🔭 I am currently working as an Associate Software Developer at UMass Amherst Libraries, where I design accessible, mobile-responsive interfaces, streamline backend systems, and contribute to improving digital access and metadata indexing for over 100K+ archived records.
+- 🔭 I am currently working as an Associate Software Developer at UMass Amherst Libraries, where I design accessible, mobile-responsive interfaces, streamline backend systems, and contribute to improving digital access and metadata indexing for over 100K+ archived records.
 
 - 👯 I’m always looking for new projects, startup ideas and opportunities
 
